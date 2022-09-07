@@ -67,7 +67,10 @@ CIRCUIT DIAGRAM
 
 
 **PROGRAM** 
+
 ~~~
+Name:v.charan sai
+ref no : 212221240061
 int potPin = A5;
 int ledPin = 2;
 void setup()
@@ -99,6 +102,7 @@ digitalWrite(2, LOW);
 **
 **Simulation output:** 
 **
+![ex2](https://user-images.githubusercontent.com/94296221/188885597-94c4b96e-3399-453f-9d4a-d40da504628a.png)
 
 
 [My image](username.github.com/repository/img/image.jpg)
