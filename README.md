@@ -66,7 +66,7 @@ CIRCUIT DIAGRAM
 
 
 
-**PROGRAM** 
+### PROGRAM
 
 ~~~
 Name:v.charan sai
@@ -99,9 +99,9 @@ digitalWrite(2, LOW);
 
 
 
-**
-**Simulation output:** 
-**
+
+### Simulation output: 
+
 ![ex2](https://user-images.githubusercontent.com/94296221/188885597-94c4b96e-3399-453f-9d4a-d40da504628a.png)
 
 
@@ -113,4 +113,5 @@ digitalWrite(2, LOW);
 
 
 
-**RESULT: ** Arduino uno analog input functioning is learned and interfaced with digital input switch .
+### RESULT:
+Arduino uno analog input functioning is learned and interfaced with digital input switch .
